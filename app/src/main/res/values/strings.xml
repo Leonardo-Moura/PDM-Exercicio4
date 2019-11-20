@@ -1,0 +1,15 @@
+<resources>
+    <string name="app_name">Exercicio 4</string>
+
+    <string name="StrCadastrar">Cadastrar</string>
+    <string name="StrDeletar">Deletar</string>
+    <string name="StrAtualizar">Atualizar</string>
+    <string name="StrPesquisar">Pesquisar</string>
+    <string name="StrCodigo">Código</string>
+    <string name="StrDescricaoProduto">Descrição</string>
+    <string name="StrQuantidade">Quantidade</string>
+    <string name="StrPreco">Preço</string>
+    <string name="StrCancelar">Cancelar</string>
+
+    <string name="StrPreencherCampos">Preencha todos os campos</string>
+</resources>
